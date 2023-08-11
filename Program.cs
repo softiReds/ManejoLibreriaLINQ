@@ -10,7 +10,20 @@
 // PrintValues(linqQueries.MoreThan450PagesOrderedDesc());
 // PrintValues(linqQueries.FromJavaOrdered());
 // PrintValues(linqQueries.MoreThan400Pages());
-PrintValues(linqQueries.TitlePages());
+// PrintValues(linqQueries.TitlePages());
+// Console.WriteLine(linqQueries.Between200And500());
+// Console.WriteLine(linqQueries.LowestDate());
+// Console.WriteLine(linqQueries.MaxPages());
+
+// var book = linqQueries.LowestPages();
+// Console.WriteLine($"{book.Title} - {book.PageCount}");
+
+// var book = linqQueries.RecentBook();
+// Console.WriteLine($"{book.Title} - {book.PublishedDate}");
+
+// Console.WriteLine(linqQueries.PageCount());
+// Console.WriteLine(linqQueries.BooksAfter2015());
+Console.WriteLine(linqQueries.AverageCharTitle());
 
 void PrintValues(IEnumerable<Book> booksList)
 {

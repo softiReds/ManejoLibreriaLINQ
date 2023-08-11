@@ -64,4 +64,49 @@ public class LinqQueries
     {
         return booksCollection.Take(3).Select(e => new Book { Title = e.Title, PageCount = e.PageCount });
     }
+
+    public int Between200And500()
+    {
+        return booksCollection.Count(e => e.PageCount >= 200 && e.PageCount <= 500);
+    }
+
+    public DateTime LowestDate()
+    {
+        return booksCollection.Min(e => e.PublishedDate);
+    }
+
+    public int MaxPages()
+    {
+        return booksCollection.Max(e => e.PageCount);
+    }
+
+    public Book LowestPages()
+    {
+        return booksCollection.Where(e => e.PageCount > 1).MinBy(e => e.PageCount);
+    }
+
+    public Book RecentBook()
+    {
+        return booksCollection.MaxBy(e => e.PublishedDate);
+    }
+
+    public int PageCount()
+    {
+        return booksCollection.Where(e => e.PageCount >= 0 && e.PageCount <= 500).Sum(e => e.PageCount);
+    }
+
+    public string BooksAfter2015()
+    {
+        return booksCollection.Where(e => e.PublishedDate.Year > 2015).Aggregate("", (BooksTitle, next) =>
+        {
+            if (BooksTitle != string.Empty) BooksTitle += " - " + next.Title;
+            else BooksTitle += next.Title;
+            return BooksTitle;
+        });
+    }
+
+    public double AverageCharTitle()
+    {
+        return booksCollection.Average(e => e.Title.Length);
+    }
 }

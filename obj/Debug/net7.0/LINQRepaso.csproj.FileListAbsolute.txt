@@ -1,0 +1,15 @@
+C:\Users\santi\OneDrive\Documentos\SantiagoRojas\Estudio\Platzi\Desarrollo\LINQRepaso\bin\Debug\net7.0\LINQRepaso.exe
+C:\Users\santi\OneDrive\Documentos\SantiagoRojas\Estudio\Platzi\Desarrollo\LINQRepaso\bin\Debug\net7.0\LINQRepaso.deps.json
+C:\Users\santi\OneDrive\Documentos\SantiagoRojas\Estudio\Platzi\Desarrollo\LINQRepaso\bin\Debug\net7.0\LINQRepaso.runtimeconfig.json
+C:\Users\santi\OneDrive\Documentos\SantiagoRojas\Estudio\Platzi\Desarrollo\LINQRepaso\bin\Debug\net7.0\LINQRepaso.dll
+C:\Users\santi\OneDrive\Documentos\SantiagoRojas\Estudio\Platzi\Desarrollo\LINQRepaso\bin\Debug\net7.0\LINQRepaso.pdb
+C:\Users\santi\OneDrive\Documentos\SantiagoRojas\Estudio\Platzi\Desarrollo\LINQRepaso\obj\Debug\net7.0\LINQRepaso.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Documentos\SantiagoRojas\Estudio\Platzi\Desarrollo\LINQRepaso\obj\Debug\net7.0\LINQRepaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Documentos\SantiagoRojas\Estudio\Platzi\Desarrollo\LINQRepaso\obj\Debug\net7.0\LINQRepaso.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Documentos\SantiagoRojas\Estudio\Platzi\Desarrollo\LINQRepaso\obj\Debug\net7.0\LINQRepaso.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Documentos\SantiagoRojas\Estudio\Platzi\Desarrollo\LINQRepaso\obj\Debug\net7.0\LINQRepaso.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\SantiagoRojas\Estudio\Platzi\Desarrollo\LINQRepaso\obj\Debug\net7.0\LINQRepaso.dll
+C:\Users\santi\OneDrive\Documentos\SantiagoRojas\Estudio\Platzi\Desarrollo\LINQRepaso\obj\Debug\net7.0\refint\LINQRepaso.dll
+C:\Users\santi\OneDrive\Documentos\SantiagoRojas\Estudio\Platzi\Desarrollo\LINQRepaso\obj\Debug\net7.0\LINQRepaso.pdb
+C:\Users\santi\OneDrive\Documentos\SantiagoRojas\Estudio\Platzi\Desarrollo\LINQRepaso\obj\Debug\net7.0\LINQRepaso.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Documentos\SantiagoRojas\Estudio\Platzi\Desarrollo\LINQRepaso\obj\Debug\net7.0\ref\LINQRepaso.dll

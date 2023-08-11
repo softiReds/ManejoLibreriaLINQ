@@ -1,6 +1,16 @@
 ﻿LinqQueries linqQueries = new LinqQueries();
 
-PrintValues(linqQueries.AllCollection());
+// PrintValues(linqQueries.AllCollection());
+// PrintValues(linqQueries.BooksAfter200());
+// PrintValues(linqQueries.MoreThan200PagesTitleWithAction());
+// Console.WriteLine({linqQueries.BooksWithStatus());
+// Console.WriteLine(linqQueries.BooksIn2005());
+// PrintValues(linqQueries.SpecificCategory("Python"));
+// PrintValues(linqQueries.SpecificCategoryOrderedAsc("Java"));
+// PrintValues(linqQueries.MoreThan450PagesOrderedDesc());
+// PrintValues(linqQueries.FromJavaOrdered());
+// PrintValues(linqQueries.MoreThan400Pages());
+PrintValues(linqQueries.TitlePages());
 
 void PrintValues(IEnumerable<Book> booksList)
 {
